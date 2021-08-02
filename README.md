@@ -1,5 +1,5 @@
 # Data-Mining-and-Warehousing
-
+repoid: https://github.com/jupyterlab/jupyterlab-demo path: demo/Untitled.ipynb
 Taken from 
 1. k-means
 
