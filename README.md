@@ -29,3 +29,12 @@ Taken from
   
   
   ![image](https://user-images.githubusercontent.com/64421634/127815262-50a2daf8-1a76-457b-b003-02fb5d7a315d.png)
+
+
+
+
+
+K-Means(final)
+
+
+![image](https://user-images.githubusercontent.com/64421634/127972879-db08ad69-9c37-4ba2-a4e5-18dc36528179.png)
